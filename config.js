@@ -5,14 +5,10 @@
 window.SITE = {
   company: "Lumina Management LLC",        // Nombre legal EXACTO de la LLC
   initials: "LM",                     // Iniciales para el logo
-  founded: "2025",                    // Año de constitución de la LLC
   state: "Wyoming",                   // Estado donde está registrada
   address: "30 N Gould St, Ste R, Sheridan, WY 82801, USA", // Dirección registrada de la LLC
-  email: "hello@luminamanagement.com",      // Email con tu dominio (mejor que gmail para los bancos)
-  domain: "luminamanagement.com",
-  linkedin: "https://www.linkedin.com/company/lumina-management",
-  instagram: "https://www.instagram.com/yourprofile",
-  x: "https://x.com/yourprofile",
+  email: "hello@luminamanagementllc.com",      // Email con tu dominio (mejor que gmail para los bancos)
+  domain: "luminamanagementllc.com",
   year: new Date().getFullYear()
 };
 
